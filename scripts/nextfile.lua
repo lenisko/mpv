@@ -3,7 +3,7 @@ local msg = require 'mp.msg'
 local settings = {
 
   filetypes = {
-    'mkv', 'avi', 'mp4', 'ogv', 'webm', 'rmvb', 'flv', 'wmv', 'mpeg', 'mpg', 'm4v', '3gp', 'mov', 'mts'
+    'mkv', 'avi', 'mp4', 'ogv', 'webm', 'rmvb', 'flv', 'wmv', 'mpeg', 'mpg', 'm4v', '3gp', 'mov', 'mts', 'qt', 'ts', 'vob', 'ogg', 'gifv', 'gif', 'm2ts', 'rm', 'rmvb'
   },
 
   --linux(true)/windows(false)/auto(nil)
